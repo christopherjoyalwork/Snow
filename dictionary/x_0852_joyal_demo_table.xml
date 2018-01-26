@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Joyal Demo Table" max_length="40" name="x_0852_joyal_demo_table" type="collection"/>
+</database>
